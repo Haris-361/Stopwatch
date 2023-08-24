@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to left, #aacc00, #ff6600);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+#container{
+    color: aliceblue;
+}
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}
+.txt{
+    font-size: 40px;
+}
+#btn{
+    text-align: center;
+    margin-top:40px ;
+}
+button{
+    padding: 7px 14px;
+    color: coral;
+    margin: 0px 10px;
+    cursor: pointer;
+    border: 0px;
+}
+#str{
+    background-color: brown;
+}
+#stp{
+    background-color: gold;
+}
+#res{
+    background-color: blue;
+}
+
